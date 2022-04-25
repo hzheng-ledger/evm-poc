@@ -1,0 +1,9 @@
+{
+    "mnemonic": "",
+    "accountaddress": "0xa243879a180Ba0E5Dd7Fc1B3E56EB4f417b90d3F",
+    "toaddress": "0xab655935B74cb1462606788B0588F59911b72C05",
+    "anotheraddress": "0xec72877122Fdc930AFd2412684dB6b47d407c08a",
+    "tokenaddress": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "nftaddress": "0xa395cdfb7bd37e03848bf5dda317d610acd58865",
+    "endpoint": "https://rinkeby.infura.io/v3/8946b76eb7464edbba46177186c4614b"
+}
